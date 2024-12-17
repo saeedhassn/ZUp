@@ -27,6 +27,7 @@ html-telegraph-poster
 httpx[http2]
 humanize
 ipaddress
+img2html
 jikanpy
 justwatch
 kvsqlite
@@ -75,4 +76,3 @@ youtube-search-python==1.4.9
 youtube-search
 youtube_dl
 yt-dlp
-git+https://github.com/buddhhu/img2html.git
